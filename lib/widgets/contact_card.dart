@@ -125,7 +125,7 @@ class ContactCard extends StatelessWidget {
                     child: Row(
                       children: <Widget>[
                         Padding(
-                          padding: const EdgeInsets.all(10.0),
+                          padding: const EdgeInsets.all(8.0),
                           child: RichText(
                             text: TextSpan(
                               style: const TextStyle(color: kTextColor),
